@@ -1,0 +1,44 @@
+.jumbotron {
+    /* padding: 2rem 1rem; */
+    padding-top: 6rem;
+    background-color: #E8EBF0;
+}
+
+#projects {
+    background-color: #E8EBF0;
+}
+
+#sertifikat {
+    background-color: #E8EBF0;
+}
+
+footer {
+    background-color: #36393e;
+    color: white;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+footer a:hover {
+    background-color: #E8EBF0;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.moment-img {
+    width: 100%;
+}
+
+#moment .row > * {
+    padding: 0;
+}
+
